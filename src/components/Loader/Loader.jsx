@@ -5,7 +5,7 @@ export const Loader = () => {
   return (
     <LoaderContainer>
       <ThreeDots
-        color="#000"
+        color="#3f51b5"
         height={100}
         width={100}
         timeout={3000}
